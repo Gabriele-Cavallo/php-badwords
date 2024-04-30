@@ -11,6 +11,6 @@
     <title>PHP Censored Words</title>
 </head>
 <body>
-    
+    <p>Il testo inserito è: <?php echo $uncesoredText; ?> e la mia lunghezza è di <?php echo strlen($uncesoredText); ?> caratteri.</p>
 </body>
 </html>
