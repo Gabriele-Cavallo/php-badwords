@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form-wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin: 15px;
+}
+.paragraph-wrapper{
+    display: flex;
+    gap: 15px;
+}
+.word-wrapper{
+    display: flex;
+    gap: 15px;
+}

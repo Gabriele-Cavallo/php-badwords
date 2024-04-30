@@ -1,5 +1,6 @@
 <?php
-
+    $uncesoredText= $_GET['inputText'];
+    $censoredWord= $_GET['inputWord'];
 ?>
 
 <!DOCTYPE html>
